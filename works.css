@@ -1,0 +1,19 @@
+.logo{
+  color:#000000;
+  float: left;
+  padding-left: 10px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: monospace;
+  margin: 0 10px 0 50px;
+}
+.para{
+  font-family: fantasy;
+  font-size: 20px;
+  margin: 20px 10px 0 10px;
+}
+.key{
+  font-size: 30px;
+  font-style: oblique;
+  font-family: fantasy;
+}

@@ -1,0 +1,30 @@
+body{
+  background-color: #ffffff;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-style:ARIAL;
+  color:#
+}
+form{
+  margin: 20px auto;
+  width: 320px;
+}
+input{
+  padding: 10px;
+  font-size: inherit;
+}
+input[type="text"] {
+  display: block;
+  margin-bottom: 25px;
+  width: 100%;
+  border: 2px solid black ;
+}
+input[type="submit"]{
+  width: 344px;
+  height: 45px;
+  border: none;
+  background: #c1c1c1;
+  color: #ffffff;
+}
